@@ -11,7 +11,7 @@ Trained on 2527 images
 
 Data : https://www.kaggle.com/asdasdasasdas/garbage-classification 
 
-80 Mb .h5 file of the trained model :  
+80 Mb .h5 file of the trained model :  https://anonfiles.com/j846R8Q5n8/garbage_classifier_h5
 
 
 Just use the code below from 'IN[0] : 
